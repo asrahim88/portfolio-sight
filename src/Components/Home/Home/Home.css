@@ -1,0 +1,47 @@
+.hand{
+    animation: hand-animation;
+    animation-duration: 2.1s;
+    animation-iteration-count: infinite;
+    transform-origin: 70% 70%;
+    display: inline-block;
+}
+.homeContent{
+    margin-top: 152px;
+    margin-bottom: 172px;
+}
+@keyframes hand-animation {
+    0% {
+        transform: rotate(0deg);
+    }
+    10% {
+        transform: rotate(14deg)
+    }
+    20% {
+        transform: rotate(-8deg)
+    }
+    30% {
+        transform: rotate(14deg)
+    }
+    40% {
+        transform: rotate(-4deg)
+    }
+    50% {
+        transform: rotate(10deg)
+    }
+    60% {
+        transform: rotate(0deg)
+    }
+    100% {
+        transform: rotate(0deg)
+    }
+}
+.imgBox{
+    width: 500px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top:  50px;
+}
+.imgBox img {
+    width: 100%;
+
+}

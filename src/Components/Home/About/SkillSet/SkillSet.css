@@ -1,0 +1,14 @@
+.bootstrapIcon{
+    font-size: 100px;
+    color: antiquewhite;
+    box-shadow: 2px 5px 25px 2px rgb(66, 64, 63);
+    text-align: center;
+    border-radius:  10px;
+}
+.bootstrapIcon:hover {
+    font-size: 100px;
+    color: antiquewhite;
+    box-shadow: 2px 5px 25px 2px red;
+    text-align: center;
+    border: 1px solid white;
+}

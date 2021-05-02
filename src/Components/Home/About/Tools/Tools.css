@@ -1,0 +1,11 @@
+.toolsBox{
+    border-radius: 10px;
+    box-shadow: 2px 5px 25px 2px rgb(66, 64, 63);
+}
+.toolsBox:hover {
+    box-shadow: 2px 5px 25px 2px rgb(219, 146, 146);
+    border: 1px solid white;
+}
+.radiusNetlify{
+    border-radius: 10px;
+}

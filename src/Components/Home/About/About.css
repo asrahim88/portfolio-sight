@@ -1,0 +1,14 @@
+.aboutSection{
+    padding-bottom: 12px;
+}
+.fontSize{
+    font-size: 1.5em;
+}
+.downName {
+    margin-left: 280px !important;
+    color: rgb(0, 255, 242);
+    font-size: 25px;
+}
+.coteColor {
+    color: rgb(0, 255, 242);
+}
