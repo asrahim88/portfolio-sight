@@ -12,7 +12,7 @@ import ThirdSection from './ThirdSection/ThirdSection';
 const Projects = () => {
     return (
         <div>
-            <NavBar></NavBar>
+            {/* <NavBar></NavBar> */}
             <section className='pt-4'>
                 <div className="container pt-5 pb-5">
                     <div className="row pd-5">

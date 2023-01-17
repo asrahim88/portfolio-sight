@@ -1,0 +1,19 @@
+.margin-custom {
+    margin-bottom: 100px;
+}
+.custom {
+    display: flex;
+    justify-content: center;
+}
+.name-color {
+    color: var(--color-primary);
+}
+@media screen and (max-width: 600px){
+    .custom {
+        display: block;
+        justify-content: center;
+    }
+    .copy{
+        font-size: 13px !important;
+    }
+}

@@ -1,16 +1,10 @@
-.nav-bg{
-    background-color: rgb(12, 12, 36);
-}
-.navShadow{
-    box-shadow: 5px 5px 5px 5px rgb(59, 57, 57);
-}
+
 .size {
     font-size: 1.2em;
     color: rgb(164, 167, 170);
 }
 .hover:hover {
     border-bottom: 1px solid white;
-    
     color: aliceblue;
 }
 .hoverDownload:hover {
